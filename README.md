@@ -116,17 +116,3 @@ Future projects based on cryptocurrency sales data analysis can build on foundat
 2) Multi-Currency Comparisons: Develop methods to compare cryptocurrency assets against traditional asset classes (stocks, commodities, etc.) to understand their relative performance and correlation, helping investors diversify their portfolios.
 
 By expanding into these areas, future cryptocurrency analysis projects can provide more robust, real-time, and actionable insights, leveraging big data, machine learning, and specialized financial analysis techniques.
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Future Course
